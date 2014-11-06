@@ -1,0 +1,4 @@
+TEST
+====
+
+a test class
