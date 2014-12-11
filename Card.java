@@ -4,7 +4,7 @@ public class Card {
 	
 	public enum Suit {
 		
-		// represents each card suit *may become inner class
+		// represents each card suit 
 		Clubs, Diamonds, Spades, Hearts,
 		
 	}
